@@ -1,15 +1,7 @@
 p{
     color:white;
     font-size:20pt;
-    font-family: 'Times New Roman', Times, serif;
-
-    
-    
-    
-    
-    
-    
-
+    font-family: "Oswald", sans-serif;
 }    
 body{
     
@@ -27,3 +19,10 @@ img{
     
     
 }
+.oswald-<uniquifier> {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
